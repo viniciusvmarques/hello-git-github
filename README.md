@@ -1,6 +1,6 @@
 # hello GIT Github
 # h1
 
-**Sample text**
+__Sample text__
 ## h2
 ### h3
